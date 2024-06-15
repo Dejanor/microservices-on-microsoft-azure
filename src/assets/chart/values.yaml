@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: registry-1.docker.io/janortop5/watchn-assets
   pullPolicy: IfNotPresent
-  tag: "0.0.1"
+  tag: "main"
 
 imagePullSecrets: []
 nameOverride: ""
